@@ -1,0 +1,7 @@
+inicial
+  gira_her 20
+  segura
+  mov_her 200.
+  mov_hor -40
+  solta
+fim

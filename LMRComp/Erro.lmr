@@ -1,0 +1,8 @@
+inicio
+  pos_inicial
+  gira_garra .20
+  segura
+  mov_her +200
+  mov_hor -40
+  solt
+fim

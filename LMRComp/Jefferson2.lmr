@@ -1,0 +1,9 @@
+inicio
+  mov_hor 10
+  mov_ver +180
+  segura
+  mov_hor -40.4
+  solta
+  mov_hor -10.00
+  solta
+fim
